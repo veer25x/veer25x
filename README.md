@@ -1,4 +1,4 @@
- I'm Veer
+# Hi 👋, I'm Veer
 
 💻 AI & Machine Learning Student  
 📚 Currently learning Deep Learning and DSA  
@@ -12,7 +12,6 @@
 - Scikit-Learn
 - SQL
 - Data Visualization
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veer-pratap-singh-9447a21aa) 
 
