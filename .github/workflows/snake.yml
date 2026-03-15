@@ -4,19 +4,24 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: veer25x
           outputs: |
             dist/github-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: push github-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
