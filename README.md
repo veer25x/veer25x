@@ -5,10 +5,7 @@
 🚀 Interested in Data Science, ML, and AI research  
 🌱 Working on Python, ML models, and real-world projects  
 
-## 🔧 Skills
-- Python         - Scikit-Learn
-- Machine Learning - SQL
-- NumPy, -Pandas - Data Visualization
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veer-pratap-singh-9447a21aa) 
 
