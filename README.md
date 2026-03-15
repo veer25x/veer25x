@@ -1,3 +1,17 @@
+ I'm Veer
+
+💻 AI & Machine Learning Student  
+📚 Currently learning Deep Learning and DSA  
+🚀 Interested in Data Science, ML, and AI research  
+🌱 Working on Python, ML models, and real-world projects  
+
+## 🔧 Skills
+- Python
+- Machine Learning
+- NumPy, Pandas
+- Scikit-Learn
+- SQL
+- Data Visualization
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veer-pratap-singh-9447a21aa) 
