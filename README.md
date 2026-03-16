@@ -1,7 +1,6 @@
 # 💫 About Me:
 # Hi 👋, I'm Veer<br><br>💻 AI & Machine Learning Student  <br>📚 Currently learning Deep Learning and DSA  <br>🚀 Interested in Data Science, ML, and AI research  <br>🌱 Working on Python, ML models, and real-world projects 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Veer_is_veer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veer-pratap-singh-9447a21aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Veer_is_Veer25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veerofficial429@gmail.com) 
 
